@@ -6,7 +6,7 @@
 html {
     background-color: #9aa4ec;
 
-    font-family: 'Chivo', ExtraLight 200 Italic;
+    font-family: 'Chivo', serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -39,13 +39,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:rgba(0, 139, 139, 0.412);
     text-decoration: none;
 }
 
 a:hover {
-    color: whitesmoke;
-    background-color: darkcyan;
+    color: rgba(245, 245, 245, 0.674);
+    background-color: rgb(0, 139, 95);
     text-decoration: none;
 }
 
