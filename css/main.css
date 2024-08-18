@@ -4,7 +4,7 @@
 
 
 html {
-    background-color: #9aa4ec;
+    background-color:lightblue;
 
     font-family: 'Chivo', serif;
     font-size: 0.95em;
@@ -19,12 +19,12 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #948383;
+    background:lightcyan;
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: rgb(186, 178, 178);
+    background-color: lightcyan;
     overflow: auto;
 }
 
